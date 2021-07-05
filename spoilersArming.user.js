@@ -5,7 +5,7 @@
 // @version 1.0.0
 // @author Guy Adler, Harry Xue
 // @icon https://raw.githubusercontent.com/Guy-Adler/GeoFSSpoilersArming/main/spoilersArmIcon.png
-// @match http://*/geofs.php*
+// @match https://www.geo-fs.com/geofs.php
 // @run-at document-end
 // @grant none
 // ==/UserScript==
