@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name GeoFS Spoilers Arming
 // @description This is a recreation of the extension by Harry Xue, which allows the user to arm the spoilers before landing in GeoFS.
-// @namespace // TODO: add link to the github repo 
+// @namespace https://github.com/Guy-Adler/GeoFSSpoilersArming
 // @version 1.0.0
 // @author Guy Adler, Harry Xue
-// @icon // TODO: add the icon from the github repo
+// @icon https://raw.githubusercontent.com/Guy-Adler/GeoFSSpoilersArming/main/spoilersArmIcon.png
 // @match http://*/geofs.php*
 // @run-at document-end
 // @grant none
@@ -78,7 +78,7 @@
 
     instruments.definitions.spoilersArming = {
 		overlay: {
-			url: '', // TODO: add the icon from the github repo
+			url: 'https://raw.githubusercontent.com/Guy-Adler/GeoFSSpoilersArming/main/spoilersArm.png',
 			alignment: { x: 'right', y: 'bottom' },
 			size: { x: 100, y: 21 },
 			position: { x: 20, y: 195 },
