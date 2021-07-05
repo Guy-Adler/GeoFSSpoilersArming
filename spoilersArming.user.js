@@ -2,7 +2,7 @@
 // @name GeoFS Spoilers Arming
 // @description This is a recreation of the extension by Harry Xue, which allows the user to arm the spoilers before landing in GeoFS.
 // @namespace https://github.com/Guy-Adler/GeoFSSpoilersArming
-// @version 1.0.0
+// @version 1.0.1
 // @author Guy Adler, Harry Xue
 // @icon https://raw.githubusercontent.com/Guy-Adler/GeoFSSpoilersArming/main/spoilersArmIcon.png
 // @match https://www.geo-fs.com/geofs.php
