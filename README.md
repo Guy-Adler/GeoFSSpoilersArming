@@ -10,3 +10,5 @@ To add the script to the game, you must have a userscript plugin. Some options i
 - [ViolentMonkey](https://addons.opera.com/en/extensions/details/violent-monkey/) (Opera)
  
  After you have installed a userscript plugin, install the script, and you're ready to go!
+## Using the extension
+After the extension is installed, the spoilers arming can be toggled by pressing the spoiler arming key (defaults to `B`) and `SHIFT` at the same time while in the air.
