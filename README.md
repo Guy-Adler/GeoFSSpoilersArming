@@ -1,5 +1,5 @@
 # GeoFS Spoilers Arming
-This is a recreation of Harry Xue's extenstion for [GeoFS](https://www.geo-fs.com/) (a free flight simulator running on browsers), which adds the option to arm spoilers on the approach so they are automatically deployed on touchdown, just like in real life.
+This is a recreation of Harry Xue's extension for [GeoFS](https://www.geo-fs.com/) (a free flight simulator running on browsers), which adds the option to arm spoilers on the approach so they are automatically deployed on touchdown, just like in real life.
 
 Harry Xue's original repo: [https://github.com/gefs-plugins/spoiler-arming](https://github.com/gefs-plugins/spoiler-arming)
 
