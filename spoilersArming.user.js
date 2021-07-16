@@ -94,7 +94,8 @@
 
     var oldInit = instruments.init;
 	instruments.init = function (instrumentList) {
-		if (typeof instrumentList.spoilers !== 'undefined') {
+        aircraftWithBadlyImplementedSpoilers = ["2871", "2865", "2870"]
+		if (typeof instrumentList.spoilers !== 'undefined' || aircraftWithBadlyImplementedSpoilers.includes(geofs.aircraft.instance.aircraftRecord.id)) {
             enabled = true;
             instrumentList.spoilersArming = instrumentList.spoilers;
 		} else {
