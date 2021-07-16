@@ -4,7 +4,7 @@
 // @namespace https://github.com/Guy-Adler/GeoFSSpoilersArming
 // @updateURL https://github.com/Guy-Adler/GeoFSSpoilersArming/raw/release/spoilersArming.user.js
 // @downloadURL https://github.com/Guy-Adler/GeoFSSpoilersArming/raw/release/spoilersArming.user.js
-// @version 1.0.1
+// @version 1.0.2
 // @author Guy Adler, Harry Xue
 // @icon https://raw.githubusercontent.com/Guy-Adler/GeoFSSpoilersArming/main/spoilersArmIcon.png
 // @match https://www.geo-fs.com/geofs.php
